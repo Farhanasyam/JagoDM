@@ -9,7 +9,7 @@
 
   <title><?= $title ?? 'Jago Digital Marketing' ?></title>
 
-  <link href="<?= base_url('assets/css/jdm.css') ?>" rel="stylesheet">
+  <link href="<?= base_url('assets-new/css/jdm.css') ?>" rel="stylesheet">
 
 </head>
 

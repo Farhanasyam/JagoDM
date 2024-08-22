@@ -70,21 +70,21 @@
             </div>
             <div class="col-md-6 mt-5 d-flex flex-column align-items-center">
                 <div class="card-custom"> <!-- Repeat this block for each card -->
-                    <img src="<?= base_url('assets/images/bg1.jpg') ?>" alt="Image" class="profile-img">
+                    <img src="<?= base_url('assets-new/images/bg1.jpg') ?>" alt="Image" class="profile-img">
                     <div class="card-body">
                         <h5 class="card-title">Judul Kartu 1</h5>
                         <p class="card-text">Ini adalah teks dalam kartu.</p>
                     </div>
                 </div>
                 <div class="card-custom"> <!-- Repeat this block for each card -->
-                    <img src="<?= base_url('assets/images/bg1.jpg') ?>" alt="Image" class="profile-img">
+                    <img src="<?= base_url('assets-new/images/bg1.jpg') ?>" alt="Image" class="profile-img">
                     <div class="card-body">
                         <h5 class="card-title">Judul Kartu 2</h5>
                         <p class="card-text">Ini adalah teks dalam kartu.</p>
                     </div>
                 </div>
                 <div class="card-custom"> <!-- Repeat this block for each card -->
-                    <img src="<?= base_url('assets/images/bg1.jpg') ?>" alt="Image" class="profile-img">
+                    <img src="<?= base_url('assets-new/images/bg1.jpg') ?>" alt="Image" class="profile-img">
                     <div class="card-body">
                         <h5 class="card-title">Judul Kartu 3</h5>
                         <p class="card-text">Ini adalah teks dalam kartu.</p>
@@ -124,7 +124,7 @@
                 <div class="card-body">
                     <p class="card-text">"Jago Digital Marketing membantu saya meningkatkan keterampilan pemasaran digital yang sangat diperlukan dalam dunia bisnis saat ini. Program ini sangat cocok untuk pemula maupun profesional yang ingin terus berkembang."</p>
                     <div class="d-flex align-items-center mt-4">
-                        <img src="<?= base_url('assets/images/bg1.jpg') ?>" alt="Profile Image" class="profile-img">
+                        <img src="<?= base_url('assets-new/images/bg1.jpg') ?>" alt="Profile Image" class="profile-img">
                         <div class="profile-info">
                             <h5>John Doe</h5>
                             <p>CEO, ABC Company</p>
@@ -143,7 +143,7 @@
     <div class="row">
         <div class="col-md-4 mb-5">
             <div class="card">
-                <img src="<?= base_url('assets/images/bg1.jpg') ?>" class="card-img-top" alt="Image 1">
+                <img src="<?= base_url('assets-new/images/bg1.jpg') ?>" class="card-img-top" alt="Image 1">
                 <div class="card-body">
                     <h5 class="card-title">Card title 1</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -159,7 +159,7 @@
     .banner {
         position: relative;
         padding: 100px 15px;
-        background: url('<?= base_url('assets/images/bg1.jpg') ?>') no-repeat center center;
+        background: url('<?= base_url('assets-new/images/bg1.jpg') ?>') no-repeat center center;
         background-size: cover;
         min-height: 100vh;
         overflow: hidden;

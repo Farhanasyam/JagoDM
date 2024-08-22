@@ -7,7 +7,7 @@
 <nav class="navbar navbar-expand-lg bg-light sticky-top" style="padding: 15px;">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="<?= base_url('assets/images/logo.png') ?>" alt="Logo" style="height: 40px;">
+      <img src="<?= base_url('assets-new/images/logo.png') ?>" alt="Logo" style="height: 40px;">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
