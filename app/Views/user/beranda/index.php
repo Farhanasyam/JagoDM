@@ -32,7 +32,6 @@
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen>
                         </iframe>
-
                     </div>
                 </div>
             </div>
@@ -94,66 +93,7 @@
         </div>
 </section>
 
-<section class="container-fluid text-center promo-section">
-    <h1>Pilih Jago Digital Marketing Yang Sudah <br> Terpercaya Untuk Kembangkan Usahamu!</h1>
-    <p>Ayo pelajari lebih lanjut apa sih Jago Digital Marketing? Yuk kepoin!</p>
-    <button type="button" class="btn btn-custom">Download brosur</button>
-</section>
 
-<section class="container video-section">
-    <div class="video-content">
-        <div class="text">
-            <h1>Masih Bingung dan Galau<br>Mau Ikut Pelatihan JDM?</h1>
-            <p>Coba simak penjelasan singkat dari salah satu mentor Pelatihan Jago digital Marketing disamping ini.</p>
-        </div>
-        <div class="hero-video">
-            <video controls autoplay muted playsinline>
-                <source src="vid2.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </div>
-    </div>
-</section>
-
-<section class="container-fluid success-stories-section">
-    <h1 class="text-center">Cerita Sukses Alumni Jago Digital Marketing</h1>
-    <p class="text-center">Mereka sudah merasakan serunnya belajar skill digital marketing dan meraih kesuksesan yang mereka inginkan. <br> Kamu selanjutnya?</p>
-    <div class="row">
-        <div class="col-lg-3 col-md-6 mb-4">
-            <div class="card">
-                <div class="card-body">
-                    <p class="card-text">"Jago Digital Marketing membantu saya meningkatkan keterampilan pemasaran digital yang sangat diperlukan dalam dunia bisnis saat ini. Program ini sangat cocok untuk pemula maupun profesional yang ingin terus berkembang."</p>
-                    <div class="d-flex align-items-center mt-4">
-                        <img src="<?= base_url('assets-new/images/bg1.jpg') ?>" alt="Profile Image" class="profile-img">
-                        <div class="profile-info">
-                            <h5>John Doe</h5>
-                            <p>CEO, ABC Company</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Repeat for other stories -->
-    </div>
-</section>
-
-<section class="container-fluid expert-guidance-section">
-    <h1 class="text-center">Dibimbing Sama Praktisi Berpengalaman <br> Bantu Dapatkan Karier Impianmu</h1>
-    <p class="text-center">Kurikulum Pelatihan dirancang oleh Subject Matter Expert dan Fasilitator yang terbukti ahli di bidangnya.</p>
-    <div class="row">
-        <div class="col-md-4 mb-5">
-            <div class="card">
-                <img src="<?= base_url('assets-new/images/bg1.jpg') ?>" class="card-img-top" alt="Image 1">
-                <div class="card-body">
-                    <h5 class="card-title">Card title 1</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                </div>
-            </div>
-        </div>
-
-        <!-- Repeat for other cards -->
-    </div>
-</section>
 
 <style>
     .banner {

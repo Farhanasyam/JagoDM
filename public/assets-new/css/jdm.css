@@ -2,13 +2,17 @@ html, body {
   margin: 0;
   padding: 0;
   width: 100%;
+
 }
 
 .navbar {
   background-color: #ffffff;
+  position: -webkit-sticky; /* For Safari */
   position: sticky;
   top: 0;
-  z-index: 1000;
+  z-index: 1000; /* Ensure the navbar stays on top */
+  width: 100%; /* Ensure the navbar takes full width */
+  box-shadow: 0px 4px 2px -2px gray; /* Optional: Adds a shadow for better visibility */
 }
 
 .navbar-nav .nav-link {
@@ -30,6 +34,7 @@ html, body {
 .navbar-nav .nav-link {
   padding: 10px 15px;
 }
+
 
 /* Forms */
 .form-control {
